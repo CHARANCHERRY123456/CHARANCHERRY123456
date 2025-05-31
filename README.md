@@ -1,6 +1,6 @@
 👋 Hi, I’m @CHARANCHERRY123456 — a passionate B.Tech CSE student and full-stack developer
 
-👀 I’m deeply into Python development, MERN stack, and solving complex problems with clean, efficient code
+👀 I’m deeply into MERN stack,fast api development and solving complex problems with clean, efficient code
 
 🌱 I’m currently mastering advanced MERN concepts and exploring AI/ML integration to build next-level applications
 
