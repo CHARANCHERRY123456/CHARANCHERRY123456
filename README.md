@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm C V CHARAN</h1>
+ <h1 align="center">Hi 👋, I'm C V CHARAN</h1>
 <h3 align="center">A passionate MERN FULL STACL DEVELOPER,AI ENGINEER,</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charancherry123456&label=Profile%20views&color=0e75b6&style=flat" alt="charancherry123456" /> </p>
@@ -40,4 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charancherry123456&show_icons=true&locale=en" alt="charancherry123456" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charancherry123456&" alt="charancherry123456" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CHARANCHERRY123456" alt="charancherry123456" /></p>
+
+
